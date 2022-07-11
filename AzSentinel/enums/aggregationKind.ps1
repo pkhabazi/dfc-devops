@@ -1,4 +1,0 @@
-enum AggregationKind {
-    SingleAlert
-    AlertPerResult
-}

@@ -1,4 +1,0 @@
-enum CloseReason {
-    TruePositive
-    FalsePositive
-}
