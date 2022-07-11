@@ -1,0 +1,4 @@
+enum AggregationKind {
+    SingleAlert
+    AlertPerResult
+}
